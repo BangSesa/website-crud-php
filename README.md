@@ -1,4 +1,4 @@
-# Ì∑Ç Website CRUD PHP & MySQL
+# Website CRUD PHP & MySQL
 
 Project ini merupakan **website CRUD sederhana menggunakan PHP dan MySQL**.
 
@@ -13,7 +13,7 @@ Project ini juga dilengkapi fitur **export data ke PDF menggunakan DomPDF**.
 
 ---
 
-# ‚ú® Fitur Aplikasi
+# Fitur Aplikasi
 
 - Menampilkan data dari database
 - Menambah data baru
@@ -24,7 +24,7 @@ Project ini juga dilengkapi fitur **export data ke PDF menggunakan DomPDF**.
 
 ---
 
-# Ìª† Teknologi yang Digunakan
+# Teknologi yang Digunakan
 
 - PHP Native
 - MySQL
@@ -34,7 +34,7 @@ Project ini juga dilengkapi fitur **export data ke PDF menggunakan DomPDF**.
 
 ---
 
-# Ì≥Ç Struktur Project
+# Struktur Project
 
 WebsiteCrud
 
@@ -54,13 +54,13 @@ preview.png ‚Üí Screenshot aplikasi
 ---
 
 
-# Ì≥∏ Tampilan Aplikasi
+# Tampilan Aplikasi
 
 ![Preview Website](index.png)
 
 ---
 
-# Ì±®‚ÄçÌ≤ª Author
+# Author
 
 BangSesa
 
