@@ -49,6 +49,11 @@ crud_it.sql → Database
 
 dompdf → Library PDF  
 
+Demo    : https://webcrud.rf.gd
+
+Download: https://bit.ly/4mhNXgt
+
+
 preview.png → Screenshot aplikasi
 
 ---
